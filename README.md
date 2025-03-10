@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dianakitka
 - 👀 I’m interested in data science and visualization
-- 🌱 I’m currently learning to code in Python and how to use R for data visualization
+- 🌱 I’m currently learning to code in Python, use Machine learning and how to use R for data visualization
 - 💞️ I’m looking to collaborate on data science 
 - 📫 How to reach me: send me a message here 
 - 😄 Pronouns: She/Her
