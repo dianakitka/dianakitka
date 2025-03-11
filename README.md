@@ -1,4 +1,4 @@
-👋🏻 Hi, I’m @dianakitka
+-👋🏻 Hi, I’m @dianakitka
 👀 I’m interested in data science and visualization
 🌱 I’m currently learning to code in Python, use Machine learning, and how use R for data visualization
 ⛓️‍💥 I’m looking to collaborate on data science 
